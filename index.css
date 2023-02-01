@@ -10,8 +10,7 @@ body {
 #container {
     background-color: #1F2937;
     padding: 115px 52px 115px 52px;
-    height: 100vh;
-    overflow: hidden;
+    height: 100%;
 }
 
 h1, span {
