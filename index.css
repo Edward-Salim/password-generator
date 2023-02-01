@@ -5,13 +5,12 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: "Karla";
-    height: 100vh;
 }
 
 #container {
     background-color: #1F2937;
     padding: 115px 52px 115px 52px;
-    
+    height: 100vh;
 }
 
 h1, span {
