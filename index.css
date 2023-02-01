@@ -11,6 +11,7 @@ body {
     background-color: #1F2937;
     padding: 115px 52px 115px 52px;
     height: 100vh;
+    overflow: hidden;
 }
 
 h1, span {
